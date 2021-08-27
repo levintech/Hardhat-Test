@@ -44,6 +44,8 @@ jspm_packages/
 # Compile directories
 artifacts/
 cache/
+artifacts
+cache
 
 # TypeScript v1 declaration files
 typings/
