@@ -12,11 +12,4 @@ const ROPSTEN_PRIVATE_KEY = "YOUR ROPSTEN PRIVATE KEY";
 
 module.exports = {
   solidity: "0.8.4",
-  networks: {
-    hardhat: {
-      forking: {
-        url: "https://eth-mainnet.alchemyapi.io/v2/<key>"
-      }
-    }
-  },
 };
