@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/engineer325/Hardhat-Test/issues"
   },
-  "homepage": "https://github.com/engineer325/Hardhat-Test#readme"
+  "homepage": "https://github.com/engineer325/Hardhat-Test#readme",
+  "devDependencies": {
+    "hardhat": "^2.6.1"
+  }
 }
